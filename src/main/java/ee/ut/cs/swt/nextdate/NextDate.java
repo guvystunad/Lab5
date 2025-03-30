@@ -100,7 +100,7 @@ public class NextDate {
 //						return "Invalid Input Date";
 				}
 				//
-				else if(day > 29) //invalid input as February will never have more than 29 days
+ 				else if(day > 29) //invalid input as February will never have more than 29 days
 					return "Invalid Input Date";
 			}
 		}
